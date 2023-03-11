@@ -6,5 +6,5 @@
 5. [ChatGPT Clone](https://github.com/beyondcode/chatgpt-clone) - A ChatGPT clone using the new OpenAI chat completions API
 6. [ChatGPT Module for Magento](https://github.com/SamueleMartini/Magento-GPT-3-integration) - Module to integrate Open AI GPT-3 in Magento
 7. [OpenRewrite](https://github.com/mostafa-amine/OpenRewrite) - A tool for automatically rewriting text to change its tone, structure, focus, or other aspects
-8. [Chat using OpenAI API from CLI](https://github.com/maurobonfietti/chat-open-ai-cli) - (https://github.com/maurobonfietti/chat-open-ai-cli)
+8. [Chat using OpenAI API from CLI](https://github.com/maurobonfietti/chat-open-ai-cli) - Ask questions to OpenAI API using the CLI.
 
