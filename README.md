@@ -7,4 +7,5 @@
 6. [ChatGPT Module for Magento](https://github.com/SamueleMartini/Magento-GPT-3-integration) - Module to integrate Open AI GPT-3 in Magento
 7. [OpenRewrite](https://github.com/mostafa-amine/OpenRewrite) - A tool for automatically rewriting text to change its tone, structure, focus, or other aspects
 8. [Chat using OpenAI API from CLI](https://github.com/maurobonfietti/chat-open-ai-cli) - Ask questions to OpenAI API using the CLI.
-
+9. [Live Text Stream Supported ChatGPT Clone](https://github.com/orhanerday/ChatGPT) - ChatGPT AI Supported, ChatGPT clone is a simple web application powered by the OpenAI library and built with PHP. 
+10. [DALL·E PHP](https://github.com/orhanerday/DALLE-Examples) - Access DALL·E with PHP Forms.
