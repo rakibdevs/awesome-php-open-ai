@@ -9,7 +9,6 @@
 - [Live Text Stream Supported ChatGPT Clone](https://github.com/orhanerday/ChatGPT) - ChatGPT AI Supported, ChatGPT clone is a simple web application powered by the OpenAI library and built with PHP. 
 - [DALL·E PHP](https://github.com/orhanerday/DALLE-Examples) - Access DALL·E with PHP Forms.
 - [OpenAI Image generation](https://github.com/krisciunaskarolis/openai-images-generator) - PHP client for OpenAI Images generation API
-- [ChatGPT Clone](https://github.com/orhanerday/ChatGPT) -ChatGPT AI Supported - ChatGPT clone is a simple web application powered by the OpenAI library and built with PHP.
 - [GitHub Summarizer (ChatGPT)](https://github.com/stevebauman/github-summarizer) - Summarize GitHub pull requests and commits using ChatGPT, for free.
 
 ### Laravel
