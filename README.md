@@ -15,4 +15,5 @@
 ### Laravel
 - [OpenAI PHP for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [OpenAI powered fixes for Laravel](https://github.com/nanos/openai-exceptions) - Use the OpenAI API to show AI powered fixes for your Laravel Errors
+- [ChatGPT PHP SDK](https://github.com/HaoZi-Team/ChatGPT-PHP) - Official and Reverse Engineered ChatGPT PHP SDK (Not GPT-3)
 
