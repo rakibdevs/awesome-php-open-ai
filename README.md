@@ -12,6 +12,7 @@
 - [GitHub Summarizer (ChatGPT)](https://github.com/stevebauman/github-summarizer) - Summarize GitHub pull requests and commits using ChatGPT, for free.
 - [OpenAI-Game](https://github.com/ZSamuels28/OpenAI-Chat-Game-PHP) - A web game made with the OpenAI API
 - [ChatGPT PHP SDK](https://github.com/HaoZi-Team/ChatGPT-PHP) - Official and Reverse Engineered ChatGPT PHP SDK (Not GPT-3)
+- [OpenAI REST API Client](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
 
 ### Laravel
 - [OpenAI PHP for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
