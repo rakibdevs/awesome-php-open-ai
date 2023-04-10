@@ -14,6 +14,7 @@
 - [ChatGPT PHP SDK](https://github.com/HaoZi-Team/ChatGPT-PHP) - Official and Reverse Engineered ChatGPT PHP SDK (Not GPT-3)
 - [OpenAI REST API Client](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
 - [Finetuning ChatGPT to output better PHP code](https://github.com/thebigsmileXD/chatgpt-phpchan) - A prompt hack similar to ChatGPT DAN (do anything now) for PHP
+- [PHP OpenAI API Client](https://github.com/webboy/open-ai-api-client) - A simple community-maintained PHP client library for interacting with the OpenAI API.
 
 ### Laravel
 - [OpenAI PHP for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
